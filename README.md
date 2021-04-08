@@ -1,6 +1,6 @@
 # KerberosImplementation
 
-Each interaction will give two messages back, one you can decrypt and one you cant.
+> Each interaction will give two messages back, one you can decrypt and one you cant.
     // The appilcation server (server.java) never communicates with the KDC directly
     // The KDC stores all the secret keys for user machines and services.
     //  *Key Distribution Centre*
