@@ -1,0 +1,100 @@
+Dec 18, 2019 8:58:42 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 8:58:45 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 8:58:45 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: Loginusername,password
+Dec 18, 2019 8:58:45 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 8:59:19 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 8:59:21 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 8:59:21 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: Loginusername,password
+Dec 18, 2019 9:00:05 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 9:00:08 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 9:00:08 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: Loginusername,password
+Dec 18, 2019 9:00:08 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 9:47:31 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 9:47:33 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 9:47:33 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 9:48:39 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 9:48:41 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 9:48:41 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 9:48:41 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 9:54:27 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 9:54:30 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 9:54:30 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 9:54:30 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 10:01:43 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 10:01:45 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 10:01:45 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 10:01:45 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: TicketGrantingServer1,3
+Dec 18, 2019 10:01:45 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 10:02:39 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 10:02:41 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 10:02:41 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 10:02:41 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 10:04:20 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 10:04:24 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 10:04:24 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 10:04:24 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 10:09:15 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 10:09:17 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 10:09:17 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 10:09:17 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: TicketGrantingServer1,3,3
+Dec 18, 2019 10:09:17 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 10:25:24 AM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 10:25:26 AM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 10:25:26 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 10:25:26 AM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: TicketGrantingServer127,1,3,3,1200
+Dec 18, 2019 10:25:26 AM kerberosimp.server$ClientHandler run
+WARNING: Exception caught
+Dec 18, 2019 12:53:48 PM kerberosimp.server start
+INFO: Server Starting....
+Dec 18, 2019 12:53:51 PM kerberosimp.server start
+INFO: A Client has connected from the address: /127.0.0.1
+Dec 18, 2019 12:53:51 PM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: AuthenticationServer1,3
+Dec 18, 2019 12:53:51 PM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: TicketGrantingServer127,1,3,3,1200
+Dec 18, 2019 12:53:51 PM kerberosimp.server$ClientHandler run
+INFO: Command Received from the client: HTTPService,1,120050
